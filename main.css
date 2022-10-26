@@ -122,4 +122,20 @@ header .content .countdown {
   }
 }
 
+button {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+  padding: 9px 25px;
+  background-color: rgba(0, 136, 168, 1);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  border-color: #3232359c;
+}
+
+button:hover {
+  background-color: rgba(0, 136, 168, 0.8);
+}
+
 /*# sourceMappingURL=main.css.map */
