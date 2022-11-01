@@ -132,11 +132,18 @@ button {
   cursor: pointer;
   transition: all 0.3s ease 0s;
   border-color: #3232359c;
-  color: #fff;
 }
 
 button:hover {
   background-color: rgba(0, 136, 168, 0.8);
+}
+
+.red {
+  color: #FF0000;
+}
+
+.white {
+  color: #FFF;
 }
 
 /*# sourceMappingURL=main.css.map */
