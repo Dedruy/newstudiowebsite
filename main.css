@@ -132,6 +132,7 @@ button {
   cursor: pointer;
   transition: all 0.3s ease 0s;
   border-color: #3232359c;
+  color: #fff;
 }
 
 button:hover {
